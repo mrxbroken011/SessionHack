@@ -1,0 +1,7 @@
+motor
+Kurigram
+pyromod
+TgCrypto
+python-dotenv
+telethon
+rich
